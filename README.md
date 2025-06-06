@@ -2,10 +2,9 @@
 1. K. Musazi and Yucheng Lan
 
 # version
-1. v0.1.20250604: first version on peak searching
-2. v0.1.?: 
-3. v0.1.?: cubic systems
-4. v0.1.?: hexagonal systems
+1. v0.2506a: first version, including peak searching
+3. v0.2506b: second version, including peak searching + indexing of cubic systems
+4. v0.2506c: third version, including peak searching + indexing of cubic systems + indexing of hexagonal systems
 5. v0.2.?: GUI
 6. v0.3.?: space group
 
